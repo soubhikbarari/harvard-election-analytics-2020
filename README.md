@@ -11,20 +11,20 @@ Check back on *November 1* for the final predictions from each forecaster.
 
 ## Forecaster blogs
 
-* Alison Hu, Sophmore in Applied Math/Economics
+* [Alison Hu](http://ahu6.github.io/electionanalytics), Sophmore in Applied Math/Economics
 * [Brendan Chapuis](https://bchaps1999.github.io/2020_election_analytics/), Junior in Economics
 * [Carine Hajjar](https://carine-h.github.io/), Senior in Government (Data Science)
-* Cassidy Bargell, Junior in Integrative Biology
-* Christopher Milne, Junior in Physics
+* [Cassidy Bargell](https://cassidybargell.github.io/election_analytics/), Junior in Integrative Biology
+* [Christopher Milne](https://camilne9.github.io/election_analytics_blog/), Junior in Physics
 * [Dominic Skinnion](https://dskinnion.github.io/Gov1347_Blog/), Sophmore in Government
 * [Elias DeLeon](https://juggereggnog.github.io/Election-Analytics-Blog/), Sophomore in Philosophy/Government
 * [Ella Michaels](https://ellamichaels.github.io/gov1347_blog/), 
-* Eric White, Senior in Applied Math
-* Erin Guetzloe, Sophomore in Government (Data Science) and Philosophy
-* Evangelos Kasus, 
-* Evelyn Cai, Junior in Government
-* Feven Yohannes, Junior in Government
-* Grace Kim, Mechanical Engineering/Government (Data Science)
+* [Eric White](https://eric-white2021.github.io/gov1347blog/), Senior in Applied Math
+* [Erin Guetzloe](https://eguetzloe.github.io/Election-Analytics-Blog/), Sophomore in Government (Data Science) and Philosophy
+* [Evangelos Kasus](https://ekassos.github.io/election-analytics/), 
+* [Evelyn Cai](http://caievelyn.github.io/election-analytics), Junior in Government
+* [Feven Yohannes](https://fyohannes.github.io/Data_Elections/), Junior in Government
+* [Grace Kim](https://gkim65.github.io/2020_ElectionBlogPost_gov1347/), Mechanical Engineering/Government (Data Science)
 * Helen Simpson, Junior in Government
 * [Jack Schroeder](https://jackmschroeder.github.io/Election-Analytics/), Senior in Government
 * [Kayla Manning](https://kayla-manning.github.io/gov1347/), Senior in Statistics
@@ -33,13 +33,13 @@ Check back on *November 1* for the final predictions from each forecaster.
 * Mrunali Manjrekar,
 * [Nick Sigua](https://nick-sigua.github.io/Election_Analytics_Sigua/), Junior in Government
 * [Nithin Kavi](https://thinkinavi24.github.io/ElectionAnalytics/), Freshman in Computer Science / Mathematics
-* Owen Bernstein, Sophomore in Government
+* [Owen Bernstein](https://owenbernstein.github.io/), Sophomore in Government
 * [Parker Mas](https://parkermas.github.io/gov1347-blog/), Junior in Government
-* Richard Brown, Junior in Economics / Government
-* Samuel Lowry, Sopmohore in Government / History
+* [Richard Brown](https://rbrown146.github.io/Gov_Election_Analytics/), Junior in Economics / Government
+* [Samuel Lowry](https://samuellowry.github.io/gov1347_blog/), Sopmohore in Government / History
 * [Samuel Thau](https://samthau.github.io/gov1347/), 
 * [Serhiy Sokhan](https://serhiys1.github.io/electionblog/), 
-* Tahmid Ahmed,
+* [Tahmid Ahmed](https://tahmidahmed2000.github.io/Gov1347/),
 * [Yanxi Fang](https://yanxifang.github.io/Gov-1347/), Sophomore in Government
 * [Yaodong Yu](https://itsyaoyu.com/blog/), Sophomore in Government (Data Science)
 
