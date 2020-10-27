@@ -25,7 +25,7 @@ Check back on *November 1* for the final predictions from each forecaster.
 * Evelyn Cai, Junior in Government
 * Feven Yohannes, Junior in Government
 * Grace Kim, Mechanical Engineering/Government (Data Science)
-* [Helen Simpson](https://hwsimpson33.github.io/pres2020/), Junior in Government
+* Helen Simpson, Junior in Government
 * [Jack Schroeder](https://jackmschroeder.github.io/Election-Analytics/), Senior in Government
 * [Kayla Manning](https://kayla-manning.github.io/gov1347/), Senior in Statistics
 * [Lindsey Greenhill](https://lindseygreenhill.github.io/Gov1347/), Sophomore in Government (Data Science)
