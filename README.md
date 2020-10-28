@@ -11,13 +11,13 @@ Check back on *November 1* for the final predictions from each forecaster.
 
 ## Forecaster blogs
 
-* [Alison Hu](http://ahu6.github.io/electionanalytics), Sophomore in Applied Math/Economics
+* [Alison Hu](http://ahu6.github.io/electionanalytics), Sophomore in Applied Math / Economics
 * [Brendan Chapuis](https://bchaps1999.github.io/2020_election_analytics/), Junior in Economics
 * [Carine Hajjar](https://carine-h.github.io/), Senior in Government (Data Science)
 * [Cassidy Bargell](https://cassidybargell.github.io/election_analytics/), Junior in Integrative Biology
 * [Christopher Milne](https://camilne9.github.io/election_analytics_blog/), Junior in Physics
 * [Dominic Skinnion](https://dskinnion.github.io/Gov1347_Blog/), Sophomore in Government
-* [Elias DeLeon](https://juggereggnog.github.io/Election-Analytics-Blog/), Sophomore in Philosophy/Government
+* [Elias DeLeon](https://juggereggnog.github.io/Election-Analytics-Blog/), Sophomore in Philosophy / Government
 * [Ella Michaels](https://ellamichaels.github.io/gov1347_blog/), Junior in Government
 * [Eric White](https://eric-white2021.github.io/gov1347blog/), Senior in Applied Math
 * [Erin Guetzloe](https://eguetzloe.github.io/Election-Analytics-Blog/), Sophomore in Government (Data Science) and Philosophy
