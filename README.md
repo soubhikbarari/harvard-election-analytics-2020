@@ -38,6 +38,5 @@ Check back on *November 1* for the final predictions from each forecaster.
 * [Samuel Thau](https://samthau.github.io/gov1347/), Junior in Applied Math and Government
 * [Serhiy Sokhan](https://serhiys1.github.io/electionblog/), Senior in Government
 * [Tahmid Ahmed](https://tahmidahmed2000.github.io/Gov1347/), Junior in Government and Economics
-* [Yanxi Fang](https://yanxifang.github.io/Gov-1347/), Sophomore in Government
 * [Yaodong Yu](https://itsyaoyu.com/blog/), Sophomore in Government (Data Science)
 
