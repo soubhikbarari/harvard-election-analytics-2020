@@ -25,7 +25,6 @@ Check back on *November 1* for the final predictions from each forecaster.
 * [Evelyn Cai](http://caievelyn.github.io/election-analytics), Junior in Government
 * [Feven Yohannes](https://fyohannes.github.io/Data_Elections/), Junior in Government
 * [Grace Kim](https://gkim65.github.io/2020_ElectionBlogPost_gov1347/), Mechanical Engineering/Government (Data Science)
-* Helen Simpson, Junior in Government
 * [Jack Schroeder](https://jackmschroeder.github.io/Election-Analytics/), Senior in Government
 * [Kayla Manning](https://kayla-manning.github.io/gov1347/), Senior in Statistics
 * [Lindsey Greenhill](https://lindseygreenhill.github.io/Gov1347/), Sophomore in Government (Data Science)
