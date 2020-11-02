@@ -9,9 +9,10 @@ The goal of these blogs is to provide **descriptive analyses and regularly updat
 
 ## Summary of forecasts
 
-<h4><b>Figure 1: Distribution of Electoral College Forecasts</b></h4>
+
 ![](TrumpECHist.png)
 
+<h4><b>Figure 1: Distribution of Electoral College Forecasts</b></h4>
 
 ![](TrumpWinnerMap.png)
 
