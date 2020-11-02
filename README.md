@@ -23,7 +23,7 @@ As we approach Election Day, Biden [appears to be ahead in the polls](https://pr
 
 ![](TrumpWinnerMap.png)
 
-How certain are we about these forecasts? For forecasters who predicted state-level popular voteshares[^1], we certainly see some variance in these predictions ranging from `5-10%`. There seems to be considerable disagreement about Trump winning <span style="color:red">North Carolina</span> and <span style="color:red">Georgia<span/> (and a surprising amount for <span style="color:red">Texas</span>, with two forecasts predicting a historic flip). For Biden, there is similar, though slightly less, disagreement about <span style="color:blue">Florida</span> and <span style="color:blue">Arizona</span> though a solid consensus for <span style="color:blue">New Hampshire, Michigan,</span> and <span style="color:blue">Pennsylvannia</span>.
+How certain are we about these forecasts? For forecasters who predicted state-level popular voteshares [^1], we certainly see some variance in these predictions ranging from `5-10%`. There seems to be considerable disagreement about Trump winning <span style="color:red">North Carolina</span> and <span style="color:red">Georgia<span/> (and a surprising amount for <span style="color:red">Texas</span>, with two forecasts predicting a historic flip). For Biden, there is similar, though slightly less, disagreement about <span style="color:blue">Florida</span> and <span style="color:blue">Arizona</span> though a solid consensus for <span style="color:blue">New Hampshire, Michigan,</span> and <span style="color:blue">Pennsylvannia</span>.
 
 <h3><b>Figure 3: Distribution of Gov 1347 State-Level Two-Party Popular Vote Forecasts (for Trump)</b></h3>
 
@@ -71,5 +71,6 @@ For more state-by-state summary statistics, see [this table](states.html).
 * [Tahmid Ahmed](https://tahmidahmed2000.github.io/Gov1347/), Junior in Government and Economics
 * [Yaodong Yu](https://itsyaoyu.com/blog/), Sophomore in Government (Data Science)
 
-<hr><br>
+<br><hr>
+
 [^1]: Some forecasters simply predicted state-level winners, which accounts for some disrepancies between the average state-level predicted PVs in Figure 2 and the state-level winners in Figure 1.
