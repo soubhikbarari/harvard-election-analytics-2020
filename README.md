@@ -9,11 +9,15 @@ The goal of these blogs is to provide **descriptive analyses and regularly updat
 
 ## Summary of forecasts
 
+Below is a series of graphical and tabular summaries of our class's forecasts for the 2020 election. We can see from Figure 1 that, overall, Biden is heavily favored to win the race with only **one** out of our 27 forecasts predicting that Trump will cross `270 EV`. 
 
 <h3><b>Figure 1: Distribution of Gov 1347 Electoral College Forecasts</b></h3>
 
 
 ![](TrumpECHist.png)
+
+
+As we approach Election Day, Biden [appears to be ahead](https://projects.fivethirtyeight.com/polls/president-general/) by a `>5%` margin in some battleground states like Michigan, Wisconsin, and Pennsylvannia and barely ahead in other battlegrounds like Florida, Arizona, North Carolina, and Georgia. Figure 2 shows that the majority of our forecasters predict that Biden will win in the battleground states of <span style="color:blue">Florida, Arizona, Pennsylvannia, Michigan, New Hampshire</span> and <span style="color:blue">Wisconsin</span>, while Trump will claim <span style="color:red">Georgia, North Carolina</span> and <span style="color:red">Ohio</span>.
 
 <h3><b>Figure 2: Projected State Winners in Majority of Gov 1347 Forecasts</b></h3>
 
@@ -420,7 +424,7 @@ The goal of these blogs is to provide **descriptive analyses and regularly updat
 * [Evangelos Kasus](https://ekassos.github.io/election-analytics/), Sophomore in Government
 * [Evelyn Cai](http://caievelyn.github.io/election-analytics), Junior in Government
 * [Feven Yohannes](https://fyohannes.github.io/Data_Elections/), Junior in Government
-* [Grace Kim](https://gkim65.github.io/2020_ElectionBlogPost_gov1347/), Mechanical Engineering/Government (Data Science)
+* [Grace Kim](https://gkim65.github.io/2020_ElectionBlogPost_gov1347/), Mechanical Engineering / Government (Data Science)
 * [Jack Schroeder](https://jackmschroeder.github.io/Election-Analytics/), Senior in Government
 * [Kayla Manning](https://kayla-manning.github.io/gov1347/), Sophomore in Statistics
 * [Lindsey Greenhill](https://lindseygreenhill.github.io/Gov1347/), Sophomore in Government (Data Science)
