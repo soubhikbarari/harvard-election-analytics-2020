@@ -31,6 +31,8 @@ The goal of these blogs is to provide **descriptive analyses and regularly updat
 
 
 
+<h3><b>Table 1: Summary of Gov 1347 State-Level Two-Party Popular Vote Forecasts</b></h3>
+
 <table>
  <thead>
   <tr>
