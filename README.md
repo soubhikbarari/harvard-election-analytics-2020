@@ -24,7 +24,7 @@ As we approach Election Day, Biden [appears to be ahead](https://projects.fiveth
 ![](TrumpWinnerMap.png)
 
 
-How certain are we about these forecasts? For forecasters who predicted state-level popular voteshares[^1]
+How certain are we about these forecasts? For forecasters who predicted state-level popular voteshares[^1], we certainly see *variance* in these 
 
 <h3><b>Figure 3: Distribution of Gov 1347 State-Level Two-Party Popular Vote Forecasts</b></h3>
 
