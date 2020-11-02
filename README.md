@@ -10,15 +10,22 @@ The goal of these blogs is to provide **descriptive analyses and regularly updat
 ## Summary of forecasts
 
 
+<h3><b>Figure 1: Distribution of Gov 1347 Electoral College Forecasts</b></h3>
+
+
 ![](TrumpECHist.png)
 
-<h4><b>Figure 1: Distribution of Electoral College Forecasts</b></h4>
+<h3><b>Figure 2: Projected State Winners in Majority of Gov 1347 Forecasts</b></h3>
 
 ![](TrumpWinnerMap.png)
 
 
+<h3><b>Figure 3: Distribution of Gov 1347 State-Level Two-Party Popular Vote Forecasts</b></h3>
+
 ![](TrumpPopHists.png)
 
+
+<h3><b>Figure 4: Map of Average Gov 1347 State-Level Two-Party Popular Vote Forecasts</b></h3>
 
 ![](TrumpPopMap.png)
 
