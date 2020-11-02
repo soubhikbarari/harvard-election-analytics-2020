@@ -33,7 +33,7 @@ How certain are we about these forecasts? For forecasters who predicted state-le
 
 <h3><b>Figure 4: Map of Average Gov 1347 State-Level Two-Party Popular Vote Forecasts</b></h3>
 
-![](TrumpPopMap.png)
+![](TrumpPopMap2.png)
 
 
 
