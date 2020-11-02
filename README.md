@@ -38,7 +38,7 @@ Nevertheless, averaged together, the resulting map of state-level popular votesh
 
 Taken together, Gov 1347 forecasts tell us that there will be a tight race ahead of us in the 24 hours -- or days -- to come.
 
-For more state-by-state summary statistics, see [this table](trump.html).
+For more state-by-state summary statistics, see [this table](states.html).
 
 ## Forecaster blogs
 
