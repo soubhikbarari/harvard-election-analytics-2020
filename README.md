@@ -9,7 +9,7 @@ The goal of these blogs is to provide **descriptive analyses and regularly updat
 
 ## Summary of forecasts
 
-Below is a series of graphical and tabular summaries of our class's forecasts for the 2020 election. We can see from Figure 1 that, overall, Biden is heavily favored to win the race with only **one** out of our 27 forecasts predicting that Trump will cross `270 EV`. 
+Below is a series of graphical and tabular summaries of our class's forecasts for the 2020 election. We can see from **Figure 1** that, overall, Biden is heavily favored to win the race with only <u>one</u> out of our 27 forecasts predicting that Trump will cross `270 EV`. 
 
 <h3><b>Figure 1: Distribution of Gov 1347 Electoral College Forecasts</b></h3>
 
@@ -17,12 +17,14 @@ Below is a series of graphical and tabular summaries of our class's forecasts fo
 ![](TrumpECHist.png)
 
 
-As we approach Election Day, Biden [appears to be ahead](https://projects.fivethirtyeight.com/polls/president-general/) by a `>5%` margin in some battleground states like Michigan, Wisconsin, and Pennsylvannia and barely ahead in other battlegrounds like Florida, Arizona, North Carolina, and Georgia. Figure 2 shows that the majority of our forecasters predict that Biden will win in the battleground states of <span style="color:blue">Florida, Arizona, Pennsylvannia, Michigan, New Hampshire</span> and <span style="color:blue">Wisconsin</span>, while Trump will claim <span style="color:red">Georgia, North Carolina</span> and <span style="color:red">Ohio</span>.
+As we approach Election Day, Biden [appears to be ahead](https://projects.fivethirtyeight.com/polls/president-general/) by a `>5%` margin in some battleground states like Michigan, Wisconsin, and Pennsylvannia and barely ahead in other battlegrounds like Florida, Arizona, North Carolina, and Georgia. **Figure 2** shows that the majority of our forecasters predict that Biden will win in the battleground states of <span style="color:blue">Florida, Arizona, Pennsylvannia, Michigan, New Hampshire</span> and <span style="color:blue">Wisconsin</span>, while Trump will claim <span style="color:red">Georgia, North Carolina</span> and <span style="color:red">Ohio</span>. And yes, <span style="color:red">Texas</span> as well.
 
 <h3><b>Figure 2: Projected State Winners in Majority of Gov 1347 Forecasts</b></h3>
 
 ![](TrumpWinnerMap.png)
 
+
+How certain are we about these forecasts? For forecasters who predicted state-level popular voteshares[^1]
 
 <h3><b>Figure 3: Distribution of Gov 1347 State-Level Two-Party Popular Vote Forecasts</b></h3>
 
@@ -35,7 +37,7 @@ As we approach Election Day, Biden [appears to be ahead](https://projects.fiveth
 
 
 
-<h3><b>Table 1: Summary of Gov 1347 State-Level Two-Party Popular Vote Forecasts</b></h3>
+<h3><b>Table 1: Summary of Gov 1347 State-Level Two-Party Popular Vote Forecasts (for Trump)</b></h3>
 
 <table>
  <thead>
@@ -440,3 +442,4 @@ As we approach Election Day, Biden [appears to be ahead](https://projects.fiveth
 * [Tahmid Ahmed](https://tahmidahmed2000.github.io/Gov1347/), Junior in Government and Economics
 * [Yaodong Yu](https://itsyaoyu.com/blog/), Sophomore in Government (Data Science)
 
+[^1]: Some forecasters simply predicted state-level winners, which accounts for some disrepancies between the average state-level predicted PVs in Figure 2 and the state-level winners in Figure 1.
