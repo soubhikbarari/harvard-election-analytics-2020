@@ -10,19 +10,16 @@ The goal of these blogs is to provide **descriptive analyses and regularly updat
 ## Summary of forecasts
 
 <h4><b>Figure 1: Distribution of Electoral College Forecasts</b></h4>
-![Distribution of Electoral College Forecasts](TrumpECHist.png)
+![](TrumpECHist.png)
 
 
 ![](TrumpWinnerMap.png)
-<figcaption>The Amazon Rainforest contains a multitude of species and is vital to the Earth's survival.</figcaption>
 
 
 ![](TrumpPopHists.png)
-<figcaption>The Amazon Rainforest contains a multitude of species and is vital to the Earth's survival.</figcaption>
 
 
 ![](TrumpPopMap.png)
-<figcaption>The Amazon Rainforest contains a multitude of species and is vital to the Earth's survival.</figcaption>
 
 
 
