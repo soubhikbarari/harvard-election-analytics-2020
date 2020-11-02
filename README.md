@@ -71,6 +71,7 @@ For more state-by-state summary statistics, see [this table](states.html).
 * [Tahmid Ahmed](https://tahmidahmed2000.github.io/Gov1347/), Junior in Government and Economics
 * [Yaodong Yu](https://itsyaoyu.com/blog/), Sophomore in Government (Data Science)
 
-<br><hr>
+<br>
+<hr>
 
 [^1]: Some forecasters simply predicted state-level winners, which accounts for some disrepancies between the average state-level predicted PVs in Figure 2 and the state-level winners in Figure 1.
