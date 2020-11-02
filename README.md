@@ -9,13 +9,21 @@ The goal of these blogs is to provide **descriptive analyses and regularly updat
 
 ## Summary of forecasts
 
-![](TrumpECHist.png)
+![title here](TrumpECHist.png)
+<figcaption>The Amazon Rainforest contains a multitude of species and is vital to the Earth's survival.</figcaption>
+
 
 ![](TrumpWinnerMap.png)
+<figcaption>The Amazon Rainforest contains a multitude of species and is vital to the Earth's survival.</figcaption>
+
 
 ![](TrumpPopHists.png)
+<figcaption>The Amazon Rainforest contains a multitude of species and is vital to the Earth's survival.</figcaption>
+
 
 ![](TrumpPopMap.png)
+<figcaption>The Amazon Rainforest contains a multitude of species and is vital to the Earth's survival.</figcaption>
+
 
 
 <table>
