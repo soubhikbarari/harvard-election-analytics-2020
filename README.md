@@ -30,7 +30,7 @@ How certain are we about these forecasts? For forecasters who predicted state-le
 ![](TrumpPopHists.png)
 
 
-Nevertheless, averaged together, the resulting map of state-level popular voteshares shown below in **Figure 4** sees a consider amount of (literal) grey area. There may be consensus on the eventual winner of some major swing states, but the <u>mean</u> of these point predictions reveals very slim win margins for Biden.
+Nevertheless, averaged together, the resulting map of state-level popular voteshares shown below in **Figure 4** sees a considerable amount of (literal) grey area. There may be consensus on the eventual winner of some major swing states, but the <u>mean</u> of these point predictions reveals very slim win margins for Biden.
 
 <h3><b>Figure 4: Map of Average Gov 1347 State-Level Two-Party Popular Vote Forecasts (for Trump)</b></h3>
 
